@@ -1,6 +1,8 @@
 Example Voting App
 =========
 
+We need to have latest version of [Docker Compose](https://docs.docker.com/compose)
+
 A simple distributed application running across multiple Docker containers.
 
 Getting started
